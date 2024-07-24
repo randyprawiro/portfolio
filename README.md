@@ -9,7 +9,7 @@ With his having recently implemented his technical skills in various projects du
 ### Education
 
 - Digital Business and Innovation, BSc from Tokyo International University (September 2020 - August 2023)
-- Digital Talent Incubator Program: Data Science & Machine Learning, Purwadhika Digital Technology School (March 2024 - July 2024)
+- Digital Talent Incubator: Data Science & Machine Learning Program, Purwadhika Digital Technology School (March 2024 - July 2024)
 
 ### Projects
 
@@ -62,4 +62,4 @@ Investigated the essence and application of FinOps in Data Science, its challeng
 
 ### Contacts
 
-[Email](mailto:randy.prawiro@gmail.com) | [Linkedin](https://www.linkedin.com/in/randy-prawiro-320837306) | [Github](https://github.com/randyprawiro)
+[Gmail](mailto:randy.prawiro@gmail.com) | [Linkedin](https://www.linkedin.com/in/randy-prawiro-320837306) | [Github](https://github.com/randyprawiro)
