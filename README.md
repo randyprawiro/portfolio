@@ -1,6 +1,6 @@
-# Data Science Portfolio
+# Randy Prawiro
 
-## Randy Prawiro
+## Data Science Portfolio
 
 ### Education
 
