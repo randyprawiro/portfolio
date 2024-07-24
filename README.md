@@ -2,7 +2,9 @@
 
 ## Data Science Portfolio
 
-Randy is a fresh graduate whose passion for data has extended far beyond his recent educational background. Equipped with domain expertise in business and analytics from his bachelor's degree from Tokyo International University's Digital Business and Innovation major, he is keen on tackling and solving business problems and generating innovative analytical solutions. Now equipped with the technical skills gained from his experience during Purwadhika Digital Technology School's DTI Data Science & Machine Learning program, he is ready to take on novel and exhilarating challenges in the data science industry.
+Randy is a fresh graduate whose passion for data has extended far beyond his recent educational background. Equipped with domain expertise in business and analytics from his bachelor's degree from Tokyo International University's Digital Business and Innovation major, he is keen on tackling and solving business problems and generating innovative analytical solutions. 
+
+Now, having obtained and applied his new technical skills during his experience with Purwadhika Digital Technology School's DTI Data Science & Machine Learning program, he is ready to take on novel and exhilarating challenges in the data science industry.
 
 ### Education
 
