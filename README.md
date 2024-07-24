@@ -14,19 +14,22 @@ Now, having implemented his technical skills in various projects during his expe
 ### Projects
 
 #### Python CRUD Book Inventory System Capstone Project
+Implemented CRUD principles in a simulated inventory system as a Python programming capstone project.
 - [Github Repository](https://github.com/randyprawiro/PythonProgrammingCapstone)
 
 #### NYC TLC Trip Record Data Analysis Capstone Project
+Conducted exploratory data analysis, published data visualizations and insights storytelling for a New York City TLC trip record dataset as a data analysis capstone project.
 - [Github Repository](https://github.com/randyprawiro/DataAnalysisCapstone)
 - [Tableau Dashboard](https://public.tableau.com/views/Capstone2Dashboard_17176907722230/NYCTaxiDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [Tableau Story](https://public.tableau.com/views/Capstone2Story_17176931100300/NYCTaxiStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
-#### Machine Learning Telco Customer Churn Classification & 
-#### Cloud Platform Prediction Capstone Project
+#### Machine Learning Telco Customer Churn Classification & < br / > Cloud Platform Prediction Capstone Project
+Trained a machine learning classification model to predict telco customer churn and uploaded the model to the Google Cloud Platform to enable cloud predictions.
 - [Github Repository](https://github.com/randyprawiro/MachineLearning-CloudComputingCapstone)
 - [Video Demonstration](https://drive.google.com/file/d/1wcHxSjdUf3f1t9cI8DEADEbSDdEX7oda/view?usp=drive_link)
 
 #### Netflix Originals Data Analysis Project
+Published data visualizations and insights storytelling for a Netflix Originals dataset as a data analysis project.
 - [Tableau Dashboard](https://public.tableau.com/views/netflix_17159269325010/NetflixDataAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 - [Tableau Story](https://public.tableau.com/views/NetflixStory_17163970726270/NetflixStory?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
