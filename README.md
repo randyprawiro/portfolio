@@ -4,7 +4,7 @@
 
 Randy is a fresh graduate whose passion for data has extended far beyond his recent educational background. Equipped with domain expertise in business and analytics from his bachelor's degree from Tokyo International University's Digital Business and Innovation major, he is keen on tackling and solving business problems and generating innovative analytical solutions. 
 
-Now, having implemented his technical skills in various projects during his experience with Purwadhika Digital Technology School's DTI Data Science & Machine Learning program, he is ready to take on novel and exhilarating challenges in the data science industry.
+With his having recently implemented his technical skills in various projects during his experience with Purwadhika Digital Technology School's DTI Data Science & Machine Learning program, Randy is ready to take on novel and exhilarating challenges in the data science industry.
 
 ### Education
 
