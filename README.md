@@ -13,9 +13,14 @@ Now, having implemented his technical skills in various projects during his expe
 
 ### Projects
 
-- [Python CRUD Book Inventory System](https://github.com/randyprawiro/PythonProgrammingCapstone)
-- [NYC TLC Data Analysis Jupyter Notebook, Tableau Dashboard and Story](https://github.com/randyprawiro/DataAnalysisCapstone)
-- [Machine Learning Classification Model for Telco Customer Churn Prediction](https://github.com/randyprawiro/MachineLearning-CloudComputingCapstone)
+#### Python CRUD Book Inventory System Capstone Project
+- [Github Repository](https://github.com/randyprawiro/PythonProgrammingCapstone)
+
+#### NYC TLC Trip Record Data Analysis Capstone Project
+- [Github Repository](https://github.com/randyprawiro/DataAnalysisCapstone)
+
+#### Machine Learning Telco Customer Churn Prediction Capstone Project
+- [Github Repository](https://github.com/randyprawiro/MachineLearning-CloudComputingCapstone)
 
 ### Publications
 
