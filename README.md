@@ -26,8 +26,7 @@ Conducted exploratory data analysis, published data visualizations and insights 
 #### Machine Learning Telco Customer Churn Classification & Cloud Platform Prediction Capstone Project
 Trained a machine learning classification model to predict telco customer churn and uploaded the model to the Google Cloud Platform to enable cloud predictions.
 - [Github Repository](https://github.com/randyprawiro/MachineLearning-CloudComputingCapstone)
-- [Video Demonstration](https://drive.google.com/file/d/1wcHxSjdUf3f1t9cI8DEADEbSDdEX7oda/view?usp=drive_link)
-
+  
 #### Netflix Originals Data Analysis Project
 Published data visualizations and insights storytelling for a Netflix Originals dataset as a data analysis project.
 - [Tableau Dashboard](https://public.tableau.com/views/netflix_17159269325010/NetflixDataAnalysis?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
@@ -59,7 +58,3 @@ Investigated the essence and application of FinOps in Data Science, its challeng
 - Tableau
 - Google Cloud Platform
 - R
-
-### Contacts
-
-[Gmail](mailto:randy.prawiro@gmail.com) | [Linkedin](https://www.linkedin.com/in/randy-prawiro-320837306) | [Github](https://github.com/randyprawiro)
